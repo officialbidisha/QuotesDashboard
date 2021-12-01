@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/QuotesDashboard/static/css/main.702f4e72.chunk.css",
+    "main.js": "/QuotesDashboard/static/js/main.b0cb1f27.chunk.js",
+    "main.js.map": "/QuotesDashboard/static/js/main.b0cb1f27.chunk.js.map",
+    "runtime-main.js": "/QuotesDashboard/static/js/runtime-main.2f7c6ad5.js",
+    "runtime-main.js.map": "/QuotesDashboard/static/js/runtime-main.2f7c6ad5.js.map",
+    "static/js/2.9bc82a1e.chunk.js": "/QuotesDashboard/static/js/2.9bc82a1e.chunk.js",
+    "static/js/2.9bc82a1e.chunk.js.map": "/QuotesDashboard/static/js/2.9bc82a1e.chunk.js.map",
+    "index.html": "/QuotesDashboard/index.html",
+    "static/css/main.702f4e72.chunk.css.map": "/QuotesDashboard/static/css/main.702f4e72.chunk.css.map",
+    "static/js/2.9bc82a1e.chunk.js.LICENSE.txt": "/QuotesDashboard/static/js/2.9bc82a1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f7c6ad5.js",
+    "static/js/2.9bc82a1e.chunk.js",
+    "static/css/main.702f4e72.chunk.css",
+    "static/js/main.b0cb1f27.chunk.js"
+  ]
+}
