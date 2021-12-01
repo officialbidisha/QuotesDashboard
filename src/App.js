@@ -1,3 +1,4 @@
+import  NotFound from './pages/NotFound';
 import { Route, Switch } from "react-router-dom";
 import Layout from "./layout/Layout";
 import AllQuotes from "./pages/AllQuotes";
@@ -18,6 +19,9 @@ function App() {
       </Route>
       <Route path="/new-quote">
         <NewQuote/>
+      </Route>
+      <Route path='*'>
+        <NotFound/>
       </Route>
     </Switch>
     </Layout>
