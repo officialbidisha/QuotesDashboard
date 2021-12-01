@@ -1,20 +1,36 @@
 {
   "files": {
-    "main.css": "/quotes/static/css/main.702f4e72.chunk.css",
-    "main.js": "/quotes/static/js/main.b0cb1f27.chunk.js",
-    "main.js.map": "/quotes/static/js/main.b0cb1f27.chunk.js.map",
-    "runtime-main.js": "/quotes/static/js/runtime-main.50703fcd.js",
-    "runtime-main.js.map": "/quotes/static/js/runtime-main.50703fcd.js.map",
-    "static/js/2.9bc82a1e.chunk.js": "/quotes/static/js/2.9bc82a1e.chunk.js",
-    "static/js/2.9bc82a1e.chunk.js.map": "/quotes/static/js/2.9bc82a1e.chunk.js.map",
-    "index.html": "/quotes/index.html",
-    "static/css/main.702f4e72.chunk.css.map": "/quotes/static/css/main.702f4e72.chunk.css.map",
-    "static/js/2.9bc82a1e.chunk.js.LICENSE.txt": "/quotes/static/js/2.9bc82a1e.chunk.js.LICENSE.txt"
+    "static/js/0.6b6e7517.chunk.js": "/QuotesDashboard/static/js/0.6b6e7517.chunk.js",
+    "static/js/0.6b6e7517.chunk.js.map": "/QuotesDashboard/static/js/0.6b6e7517.chunk.js.map",
+    "main.css": "/QuotesDashboard/static/css/main.6fae85f6.chunk.css",
+    "main.js": "/QuotesDashboard/static/js/main.e5835aef.chunk.js",
+    "main.js.map": "/QuotesDashboard/static/js/main.e5835aef.chunk.js.map",
+    "runtime-main.js": "/QuotesDashboard/static/js/runtime-main.9d92c685.js",
+    "runtime-main.js.map": "/QuotesDashboard/static/js/runtime-main.9d92c685.js.map",
+    "static/js/3.d8491325.chunk.js": "/QuotesDashboard/static/js/3.d8491325.chunk.js",
+    "static/js/3.d8491325.chunk.js.map": "/QuotesDashboard/static/js/3.d8491325.chunk.js.map",
+    "static/css/4.70edcf14.chunk.css": "/QuotesDashboard/static/css/4.70edcf14.chunk.css",
+    "static/js/4.d9e37128.chunk.js": "/QuotesDashboard/static/js/4.d9e37128.chunk.js",
+    "static/js/4.d9e37128.chunk.js.map": "/QuotesDashboard/static/js/4.d9e37128.chunk.js.map",
+    "static/css/5.930966d1.chunk.css": "/QuotesDashboard/static/css/5.930966d1.chunk.css",
+    "static/js/5.1437ad5b.chunk.js": "/QuotesDashboard/static/js/5.1437ad5b.chunk.js",
+    "static/js/5.1437ad5b.chunk.js.map": "/QuotesDashboard/static/js/5.1437ad5b.chunk.js.map",
+    "static/css/6.acfd5b14.chunk.css": "/QuotesDashboard/static/css/6.acfd5b14.chunk.css",
+    "static/js/6.1b512031.chunk.js": "/QuotesDashboard/static/js/6.1b512031.chunk.js",
+    "static/js/6.1b512031.chunk.js.map": "/QuotesDashboard/static/js/6.1b512031.chunk.js.map",
+    "static/js/7.961cf779.chunk.js": "/QuotesDashboard/static/js/7.961cf779.chunk.js",
+    "static/js/7.961cf779.chunk.js.map": "/QuotesDashboard/static/js/7.961cf779.chunk.js.map",
+    "index.html": "/QuotesDashboard/index.html",
+    "static/css/4.70edcf14.chunk.css.map": "/QuotesDashboard/static/css/4.70edcf14.chunk.css.map",
+    "static/css/5.930966d1.chunk.css.map": "/QuotesDashboard/static/css/5.930966d1.chunk.css.map",
+    "static/css/6.acfd5b14.chunk.css.map": "/QuotesDashboard/static/css/6.acfd5b14.chunk.css.map",
+    "static/css/main.6fae85f6.chunk.css.map": "/QuotesDashboard/static/css/main.6fae85f6.chunk.css.map",
+    "static/js/3.d8491325.chunk.js.LICENSE.txt": "/QuotesDashboard/static/js/3.d8491325.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.50703fcd.js",
-    "static/js/2.9bc82a1e.chunk.js",
-    "static/css/main.702f4e72.chunk.css",
-    "static/js/main.b0cb1f27.chunk.js"
+    "static/js/runtime-main.9d92c685.js",
+    "static/js/3.d8491325.chunk.js",
+    "static/css/main.6fae85f6.chunk.css",
+    "static/js/main.e5835aef.chunk.js"
   ]
 }
