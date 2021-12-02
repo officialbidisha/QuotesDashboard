@@ -8,16 +8,16 @@ function App() {
   return (
     <Layout>
     <Switch>
-      <Route path='/QuotesDashboard/' exact>
+      <Route path='/' exact>
         <AllQuotes/>
       </Route>
-      <Route path="/QuotesDashboard/quotes" exact>
+      <Route path="/quotes" exact>
          <AllQuotes/>
       </Route>
-      <Route path="/QuotesDashboard/quotes/:quoteId">
+      <Route path="/quotes/:quoteId">
        <QuoteDetails/>
       </Route>
-      <Route path="/QuotesDashboard/new-quote">
+      <Route path="/new-quote">
         <NewQuote/>
       </Route>
       <Route path='*'>
